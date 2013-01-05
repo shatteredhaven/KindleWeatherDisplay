@@ -1,11 +1,9 @@
 Kindle Weather Display
 ==============
 
-All original files were created by Matthew Petroff and can be found here: http://www.mpetroff.net/archives/2012/09/14/kindle-weather-display/
+All original files were created by Matthew Petroff and can be found here: http://www.mpetroff.net/archives/2012/09/14/kindle-weather-display/. I've included a copy of his original files for reference but I highly recommend reading his blogpost on this process. 
 
 Sever files were modified by shatteredhaven. Tutorial and files can be found here: http://www.shatteredhaven.com/2012/11/1347365-kindle-weather-display.html. Leave a comment or send a tweet (@shatteredhaven) if you have any questions or concerns.
-
-I've included a copy of his original files for reference but I highly recommend reading his blogpost on this process. 
 
 
 Folder Contents
