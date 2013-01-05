@@ -1,0 +1,4 @@
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+#execute by typing crontab <filename>
+# m h  dom mon dow   command
+  0 */2 * * *    /var/www/weatherserver/weather-script.sh
